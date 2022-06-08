@@ -1,5 +1,2 @@
-## Concepts
-- Eulerian theorem and the Konigsberg.
-
-## Tools:
-The _NetworkX_ python package, for the creation, manipulation, and study of the structure, dynamics and fucntions of complex networks.
+1. To understand the general applicability of the Eyuler's theorem, do any of the three graphs have Eulerian circuit? If soo, label the edges and state the sequence of edges in the circuit starting and ending at node A
+2. 
